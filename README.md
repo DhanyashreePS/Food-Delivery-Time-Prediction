@@ -210,30 +210,6 @@ based on the information provided by the user.
 
 ---
 
-## Application Demo
-
-The following screen recordings demonstrate the main pages of the application.
-
-### Home Page
-
-[▶️ Watch Home Page Demo](demo/home.gif)
-
-The Home Page introduces the Food Delivery Time Prediction application and provides navigation to different sections.
-
-### ℹ️ About Us
-
-[▶️ Watch About Us Demo](demo/about.gif)
-
-The About Us page provides information about the project and its purpose.
-
-### Prediction Page
-
-[▶️ Watch Prediction Page Demo](demo/predict.gif)
-
-The Prediction Page allows users to enter delivery-related information and obtain an estimated delivery time.
-
----
-
 ## Installation and Setup
 
 ### 1. Clone the Repository
