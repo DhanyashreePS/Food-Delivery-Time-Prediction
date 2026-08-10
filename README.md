@@ -76,9 +76,9 @@ Food-Delivery-Time-Prediction/
 │   └── predict.html
 │
 ├── demo/
-│   ├── home.mp4
-│   ├── about.mp4
-│   └── predict.mp4
+│   ├── home.gif
+│   ├── about.gif
+│   └── prediction.gif
 │
 ├── app.py
 ├── delivery_time_model.pkl
@@ -216,19 +216,19 @@ The following screen recordings demonstrate the main pages of the application.
 
 ### Home Page
 
-[▶️ Watch Home Page Demo](demo/home.mp4)
+[▶️ Watch Home Page Demo](demo/home.gif)
 
 The Home Page introduces the Food Delivery Time Prediction application and provides navigation to different sections.
 
 ### ℹ️ About Us
 
-[▶️ Watch About Us Demo](demo/about.mp4)
+[▶️ Watch About Us Demo](demo/about.gif)
 
 The About Us page provides information about the project and its purpose.
 
 ### Prediction Page
 
-[▶️ Watch Prediction Page Demo](demo/predict.mp4)
+[▶️ Watch Prediction Page Demo](demo/predict.gif)
 
 The Prediction Page allows users to enter delivery-related information and obtain an estimated delivery time.
 
